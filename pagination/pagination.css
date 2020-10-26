@@ -1,0 +1,19 @@
+.person {
+    padding : 10px;
+    background-color: green;
+    margin-right: 5px;
+    color: white;
+}
+.person:hover{
+    background-color: lightgreen;
+    color:black;
+    cursor: pointer;
+}
+.wrapperStyle{
+    
+    margin: 200px 80px 0px 80px;
+}
+.personDetails{
+    text-align: center;
+    padding: 20px;
+}
